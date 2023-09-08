@@ -13,8 +13,8 @@ pnpm dev
 ```
 
 ```bash
-Sample Email: vishnu@oruphones.com
-Sample Password: Hello
+Sample Email: ria@gmail.com
+Sample Password: hello
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

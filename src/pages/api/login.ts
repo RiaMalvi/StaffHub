@@ -19,6 +19,9 @@ export default async function Login(req: NextApiRequest, res: NextApiResponse) {
             .status(400)
             .json({ message: "Invalid credentials", success: false });
         }
+        else{
+          console.log(user);
+        }
         const isMatch = await bcryptjs.compare(password, user.password);
         if (!isMatch) {
           return res

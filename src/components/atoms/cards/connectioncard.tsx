@@ -30,7 +30,7 @@ const ConnectionCard = ({
           <p>Vishnu Swaroop</p>
           <div className="text-[#49454FCC]">
             <p>Full Stack Developer</p>
-            <p>@ Oruphones</p>
+            <p>@ StaffHub</p>
           </div>
           <button
             className="bg-[#BAB6EB] text-[#1F1F1FCC] font-[500] px-3 rounded-full"

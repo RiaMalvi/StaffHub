@@ -12,14 +12,14 @@ const Experience = () => {
       <EmployeeCard
         type="Full Time"
         role="Full Stack Developer"
-        company="Oruphones"
+        company="StaffHub"
         duration="2014-2021"
         years="7 Years"
       />
       <EmployeeCard
         type="Full Time"
         role="Full Stack Developer"
-        company="Oruphones"
+        company="StaffHub"
         duration="2014"
         years="6 Months"
       />
